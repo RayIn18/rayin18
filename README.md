@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayIn18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...phyton
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in code
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
